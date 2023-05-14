@@ -1,0 +1,11 @@
+C:\Users\fuck-ubuntu\Desktop\test\loader\target\release\deps\getrandom-fba03d37ed880af0.rmeta: C:\Users\fuck-ubuntu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\lib.rs C:\Users\fuck-ubuntu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\error.rs C:\Users\fuck-ubuntu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\util.rs C:\Users\fuck-ubuntu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\error_impls.rs C:\Users\fuck-ubuntu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\windows.rs
+
+C:\Users\fuck-ubuntu\Desktop\test\loader\target\release\deps\libgetrandom-fba03d37ed880af0.rlib: C:\Users\fuck-ubuntu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\lib.rs C:\Users\fuck-ubuntu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\error.rs C:\Users\fuck-ubuntu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\util.rs C:\Users\fuck-ubuntu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\error_impls.rs C:\Users\fuck-ubuntu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\windows.rs
+
+C:\Users\fuck-ubuntu\Desktop\test\loader\target\release\deps\getrandom-fba03d37ed880af0.d: C:\Users\fuck-ubuntu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\lib.rs C:\Users\fuck-ubuntu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\error.rs C:\Users\fuck-ubuntu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\util.rs C:\Users\fuck-ubuntu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\error_impls.rs C:\Users\fuck-ubuntu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\windows.rs
+
+C:\Users\fuck-ubuntu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\lib.rs:
+C:\Users\fuck-ubuntu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\error.rs:
+C:\Users\fuck-ubuntu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\util.rs:
+C:\Users\fuck-ubuntu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\error_impls.rs:
+C:\Users\fuck-ubuntu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.9\src\windows.rs:
